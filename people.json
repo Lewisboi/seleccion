@@ -1,0 +1,282 @@
+[
+  [
+    {
+      "name": "Diego Zapico",
+      "age": 17,
+      "sex": "male"
+    },
+    {
+      "name": "Trinidad Zapico",
+      "age": 12,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Tomas Gonzales",
+      "age": 15,
+      "sex": "male"
+    },
+    {
+      "name": "Vicente Pino",
+      "age": 15,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Juan Jose Gonzales",
+      "age": 13,
+      "sex": "male"
+    },
+    {
+      "name": "Josefa Pino",
+      "age": 13,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Valentina Gonzales",
+      "age": 9,
+      "sex": "female"
+    },
+    {
+      "name": "Sofia Pino",
+      "age": 8,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Delia Castillo",
+      "age": 4,
+      "sex": "female"
+    },
+    {
+      "name": "Josefina Alarcon",
+      "age": 16,
+      "sex": "female"
+    },
+    {
+      "name": "Magdalena Alarcon",
+      "age": 15,
+      "sex": "female"
+    },
+    {
+      "name": "Simon Alarcon",
+      "age": 11,
+      "sex": "male"
+    },
+    {
+      "name": "Laura Alarcon",
+      "age": 8,
+      "sex": "female"
+    },
+    {
+      "name": "Ignacia Bustos",
+      "age": 15,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Josefina Freire",
+      "age": 8,
+      "sex": "female"
+    },
+    {
+      "name": "Elisa Freire",
+      "age": 9,
+      "sex": "female"
+    },
+    {
+      "name": "Emiliano Freire",
+      "age": 5,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Julian Leturia",
+      "age": 10,
+      "sex": "male"
+    },
+    {
+      "name": "Laura Leturia",
+      "age": 12,
+      "sex": "female"
+    },
+    {
+      "name": "Gaspar Leturia",
+      "age": 15,
+      "sex": "male"
+    },
+    {
+      "name": "Matias Muchnik",
+      "age": 16,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Joaquin Peralta",
+      "age": 18,
+      "sex": "male"
+    },
+    {
+      "name": "Micaela Riquelme",
+      "age": 18,
+      "sex": "female"
+    },
+    {
+      "name": "Sofia Pedraza",
+      "age": 14,
+      "sex": "female"
+    },
+    {
+      "name": "Macarena Pedraza",
+      "age": 13,
+      "sex": "female"
+    },
+    {
+      "name": "Magdalena Irarrazaval",
+      "age": 16,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Francisco Peralta",
+      "age": 9,
+      "sex": "male"
+    },
+    {
+      "name": "Ignacio Pedraza",
+      "age": 11,
+      "sex": "male"
+    },
+    {
+      "name": "Arturo Pedraza",
+      "age": 5,
+      "sex": "male"
+    }
+  ],
+  {
+    "name": "Tato Hurtado",
+    "age": 15,
+    "sex": "male"
+  },
+  [
+    {
+      "name": "Leon Hip",
+      "age": 11,
+      "sex": "male"
+    },
+    {
+      "name": "Clemente Charpentier",
+      "age": 12,
+      "sex": "male"
+    },
+    {
+      "name": "Jose Domingo Rodriguez",
+      "age": 18,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Josefina Yarad",
+      "age": 15,
+      "sex": "female"
+    },
+    {
+      "name": "Gabriel Yarad",
+      "age": 13,
+      "sex": "male"
+    },
+    {
+      "name": "Elisa Yarad",
+      "age": 10,
+      "sex": "female"
+    },
+    {
+      "name": "Isidora Cruise",
+      "age": 6,
+      "sex": "female"
+    }
+  ],
+  {
+    "name": "Renata Puschel",
+    "age": 15,
+    "sex": "female"
+  },
+  [
+    {
+      "name": "Emilia Salinas",
+      "age": 13,
+      "sex": "female"
+    },
+    {
+      "name": "Leonor Salinas",
+      "age": 11,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Felipe Alvarez",
+      "age": 8,
+      "sex": "male"
+    },
+    {
+      "name": "Rafaela Alvarez",
+      "age": 11,
+      "sex": "female"
+    },
+    {
+      "name": "Laura Alvarez",
+      "age": 5,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Vicho Jara",
+      "age": 18,
+      "sex": "male"
+    },
+    {
+      "name": "Nacho Jara",
+      "age": 24,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Clemente Rosas",
+      "age": 20,
+      "sex": "male"
+    },
+    {
+      "name": "Sofia Gonzales",
+      "age": 21,
+      "sex": "female"
+    },
+    {
+      "name": "Federico Silva",
+      "age": 17,
+      "sex": "male"
+    },
+    {
+      "name": "Tobias Silva",
+      "age": 13,
+      "sex": "male"
+    }
+  ],
+  {
+    "name": "Simon Bello Sapag",
+    "age": 2,
+    "sex": "male"
+  }
+]
