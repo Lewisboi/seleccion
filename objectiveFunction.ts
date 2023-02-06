@@ -4,8 +4,8 @@ import { sexFunction } from "./sexFunction.ts";
 import { Team } from "./team.ts";
 
 const N = 1;
-const S = 10;
-const A = 10;
+const S = 15;
+const A = 15;
 
 export function objectiveFunction(...teams: Team[]) {
   return N * numberFunction(teams) + S * sexFunction(teams) +

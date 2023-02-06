@@ -6,14 +6,29 @@
       "sex": "male"
     },
     {
-      "name": "Trinidad Zapico",
-      "age": 12,
+      "name": "Valentina Tapia",
+      "age": 18,
+      "sex": "female"
+    },
+    {
+      "name": "Martina Puschel",
+      "age": 18,
+      "sex": "female"
+    },
+    {
+      "name": "Ash Molina",
+      "age": 17,
+      "sex": "female"
+    },
+    {
+      "name": "Renata Puschel",
+      "age": 15,
       "sex": "female"
     }
   ],
   [
     {
-      "name": "Tomas Gonzales",
+      "name": "Tomas Gonzalez",
       "age": 15,
       "sex": "male"
     },
@@ -25,7 +40,7 @@
   ],
   [
     {
-      "name": "Juan Jose Gonzales",
+      "name": "Juan Jose Gonzalez",
       "age": 13,
       "sex": "male"
     },
@@ -37,45 +52,48 @@
   ],
   [
     {
-      "name": "Valentina Gonzales",
-      "age": 9,
-      "sex": "female"
-    },
-    {
-      "name": "Sofia Pino",
-      "age": 8,
-      "sex": "female"
-    }
-  ],
-  [
-    {
       "name": "Delia Castillo",
       "age": 4,
       "sex": "female"
     },
     {
-      "name": "Josefina Alarcon",
+      "name": "Josefina Alarcón",
       "age": 16,
       "sex": "female"
     },
     {
-      "name": "Magdalena Alarcon",
+      "name": "Magdalena Alarcón",
       "age": 15,
       "sex": "female"
     },
     {
-      "name": "Simon Alarcon",
+      "name": "Simon Alarcón",
       "age": 11,
       "sex": "male"
     },
     {
-      "name": "Laura Alarcon",
+      "name": "Laura Alarcón",
       "age": 8,
       "sex": "female"
     },
     {
       "name": "Ignacia Bustos",
       "age": 15,
+      "sex": "female"
+    },
+    {
+      "name": "Amira Mohr",
+      "age": 16,
+      "sex": "female"
+    },
+    {
+      "name": "Maite Cavieres",
+      "age": 16,
+      "sex": "female"
+    },
+    {
+      "name": "Emilia Mohr",
+      "age": 16,
       "sex": "female"
     }
   ],
@@ -94,6 +112,11 @@
       "name": "Emiliano Freire",
       "age": 5,
       "sex": "male"
+    },
+    {
+      "name": "Santiago Concha",
+      "age": 9,
+      "sex": "male"
     }
   ],
   [
@@ -101,11 +124,6 @@
       "name": "Julian Leturia",
       "age": 10,
       "sex": "male"
-    },
-    {
-      "name": "Laura Leturia",
-      "age": 12,
-      "sex": "female"
     },
     {
       "name": "Gaspar Leturia",
@@ -155,11 +173,6 @@
       "name": "Ignacio Pedraza",
       "age": 11,
       "sex": "male"
-    },
-    {
-      "name": "Arturo Pedraza",
-      "age": 5,
-      "sex": "male"
     }
   ],
   {
@@ -201,16 +214,43 @@
       "sex": "female"
     },
     {
-      "name": "Isidora Cruise",
+      "name": "Iaidora Cruise",
       "age": 6,
       "sex": "female"
     }
   ],
-  {
-    "name": "Renata Puschel",
-    "age": 15,
-    "sex": "female"
-  },
+  [
+    {
+      "name": "simon Emmerich",
+      "age": 13,
+      "sex": "male"
+    },
+    {
+      "name": "Pedro Cavagnaro",
+      "age": 13,
+      "sex": "male"
+    },
+    {
+      "name": "Pablo Emmerich",
+      "age": 10,
+      "sex": "male"
+    },
+    {
+      "name": "Martin Emmerich",
+      "age": 6,
+      "sex": "male"
+    },
+    {
+      "name": "Vicente Cavagnaro",
+      "age": 9,
+      "sex": "male"
+    },
+    {
+      "name": "Juan Cavagnaro",
+      "age": 6,
+      "sex": "male"
+    }
+  ],
   [
     {
       "name": "Emilia Salinas",
@@ -247,7 +287,7 @@
       "sex": "male"
     },
     {
-      "name": "Nacho Jara",
+      "name": "Ignacio Jara",
       "age": 24,
       "sex": "male"
     }
@@ -259,7 +299,7 @@
       "sex": "male"
     },
     {
-      "name": "Sofia Gonzales",
+      "name": "Sofia Gonzalez",
       "age": 21,
       "sex": "female"
     },
@@ -276,7 +316,305 @@
   ],
   {
     "name": "Simon Bello Sapag",
-    "age": 2,
+    "age": 1,
     "sex": "male"
-  }
+  },
+  [
+    {
+      "name": "Loreto Gagliardi",
+      "age": 20,
+      "sex": "female"
+    },
+    {
+      "name": "Antonia Paz Ortega",
+      "age": 12,
+      "sex": "female"
+    },
+    {
+      "name": "Florencia Saavedra",
+      "age": 19,
+      "sex": "female"
+    },
+    {
+      "name": "Maria Jesus Arregui",
+      "age": 20,
+      "sex": "female"
+    },
+    {
+      "name": "Octavio Gagliardi",
+      "age": 12,
+      "sex": "male"
+    },
+    {
+      "name": "Laura Mondaca",
+      "age": 14,
+      "sex": "female"
+    },
+    {
+      "name": "Trinidad Zapico",
+      "age": 12,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Benjamin Tuchi",
+      "age": 6,
+      "sex": "male"
+    },
+    {
+      "name": "Antonia Aguila",
+      "age": 12,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Bastian Berrios",
+      "age": 6,
+      "sex": "male"
+    },
+    {
+      "name": "Amanda Castillo",
+      "age": 8,
+      "sex": "female"
+    },
+    {
+      "name": "Isidora Castro",
+      "age": 8,
+      "sex": "female"
+    },
+    {
+      "name": "Alonso Castillo",
+      "age": 9,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Vicente Saitua",
+      "age": 23,
+      "sex": "male"
+    },
+    {
+      "name": "Pedro Saitua",
+      "age": 20,
+      "sex": "male"
+    },
+    {
+      "name": "Martin Lahsen",
+      "age": 23,
+      "sex": "male"
+    },
+    {
+      "name": "Josefina Munoz",
+      "age": 21,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Diego Lobos",
+      "age": 19,
+      "sex": "male"
+    },
+    {
+      "name": "Juanjo Lobos",
+      "age": 16,
+      "sex": "male"
+    },
+    {
+      "name": "Javier Lobos",
+      "age": 13,
+      "sex": "male"
+    },
+    {
+      "name": "Pedro Pablo Pinochet",
+      "age": 19,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Gael Terrice",
+      "age": 4,
+      "sex": "male"
+    },
+    {
+      "name": "Emil Fialka",
+      "age": 7,
+      "sex": "male"
+    },
+    {
+      "name": "Lucas Fialka",
+      "age": 3,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Pascual Ducheilart",
+      "age": 8,
+      "sex": "male"
+    },
+    {
+      "name": "Bautista Ducheilart",
+      "age": 6,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "amparo Leturia",
+      "age": 15,
+      "sex": "female"
+    },
+    {
+      "name": "Santiago Leturia",
+      "age": 11,
+      "sex": "male"
+    }
+  ],
+  {
+    "name": "Amelia Leturia",
+    "age": 17,
+    "sex": "female"
+  },
+  [
+    {
+      "name": "Violeta Knuckey",
+      "age": 13,
+      "sex": "female"
+    },
+    {
+      "name": "Olivia Knuckey",
+      "age": 10,
+      "sex": "female"
+    },
+    {
+      "name": "Laura Leturia",
+      "age": 12,
+      "sex": "female"
+    }
+  ],
+  {
+    "name": "Daniel Concha",
+    "age": 22,
+    "sex": "male"
+  },
+  [
+    {
+      "name": "Pablo Vasquez",
+      "age": 17,
+      "sex": "male"
+    },
+    {
+      "name": "Juan Cristobal Vasquez",
+      "age": 15,
+      "sex": "male"
+    },
+    {
+      "name": "Maria Jose Vasquez",
+      "age": 9,
+      "sex": "female"
+    },
+    {
+      "name": "Isabel Abello",
+      "age": 10,
+      "sex": "female"
+    },
+    {
+      "name": "Eduardo Abello",
+      "age": 8,
+      "sex": "male"
+    },
+    {
+      "name": "Valentina Peters",
+      "age": 16,
+      "sex": "female"
+    }
+  ],
+  [
+    {
+      "name": "Laura Spichiger",
+      "age": 12,
+      "sex": "female"
+    },
+    {
+      "name": "Mara Spichiger",
+      "age": 4,
+      "sex": "female"
+    },
+    {
+      "name": "Tomas Haupt",
+      "age": 6,
+      "sex": "male"
+    },
+    {
+      "name": "Bruno Haupt",
+      "age": 4,
+      "sex": "male"
+    },
+    {
+      "name": "Tomas Vasquez",
+      "age": 10,
+      "sex": "male"
+    },
+    {
+      "name": "Olivia Vasquez",
+      "age": 17,
+      "sex": "female"
+    },
+    {
+      "name": "Ema Vasquez",
+      "age": 18,
+      "sex": "female"
+    },
+    {
+      "name": "Antonia Mege",
+      "age": 18,
+      "sex": "female"
+    }
+  ],
+  {
+    "name": "Tristan Lucero",
+    "age": 4,
+    "sex": "male"
+  },
+  [
+    {
+      "name": "Sofia Liendo",
+      "age": 11,
+      "sex": "female"
+    },
+    {
+      "name": "Gustavo Liendo",
+      "age": 7,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Gaspar Alarcon",
+      "age": 13,
+      "sex": "male"
+    },
+    {
+      "name": "Matias Alarcon",
+      "age": 11,
+      "sex": "male"
+    }
+  ],
+  [
+    {
+      "name": "Jose Pablo Cortes",
+      "age": 18,
+      "sex": "male"
+    },
+    {
+      "name": "Lucas Cortes",
+      "age": 18,
+      "sex": "male"
+    }
+  ]
 ]
